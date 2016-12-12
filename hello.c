@@ -1,5 +1,5 @@
 /* Adding the hash-include function */
-#incudle <stdio.h>
+#include <stdio.h>
 
 void main (void) {
 
