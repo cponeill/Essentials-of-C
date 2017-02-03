@@ -6,4 +6,5 @@ void main (void) {
     for (i=0; i < 5; i++) {
         printf("Hello, world!\n");
     }
+    return 0;
 }
